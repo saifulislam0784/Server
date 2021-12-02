@@ -1,0 +1,237 @@
+{
+    "users" : [
+        {
+            "id" : "1",
+            "name" : "Saiful Islam",
+            "age" : "30",
+            "skill" : "MERN STACK",
+            "gender" : "Male",
+            "location" : "Brahmanbaria"
+            
+        },
+
+        {
+            "id" : "2",
+            "name" : "Sanaf",
+            "age" : "1",
+            "skill" : "Laravel",
+            "gender" : "Male",
+            "location" : "Dhaka"
+            
+        },
+
+        {
+            "id" : "3",
+            "name" : "farzana akter",
+            "age" : "20",
+            "skill" : "PHP",
+            "gender" : "Female",
+            "location" : "Green road"
+            
+        },
+
+        {
+            "id" : "4",
+            "name" : "Sumon",
+            "age" : "35",
+            "skill" : "javascript",
+            "gender" : "Male",
+            "location" : "Dhanmondi"
+            
+        }
+    ],
+
+    "roles" : [
+        {
+            "id" : "1",
+            "name" : "Admin"
+        },
+
+        {
+            "id" : "2",
+            "name" : "Staff"
+        },
+
+        {
+            "id" : "3",
+            "name" : "Teacher"
+        },
+
+        {
+            "id" : "4",
+            "name" : "Student"
+            
+        }
+    ],
+
+    "products" : [
+        {
+            "id" : "1",
+            "name" : "Mobile Phone",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "25000",
+            "saleprice" : "20000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Galaxy-S21-Ultra.jpg"
+        },
+
+        {
+            "id" : "2",
+            "name" : "Smart Watch",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "15000",
+            "saleprice" : "12000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/watch.jpg"
+        },
+
+        {
+            "id" : "3",
+            "name" : "Headset",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "5000",
+            "saleprice" : "3500",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Headphone.jpg"
+        },
+
+        {
+            "id" : "4",
+            "name" : "Air pod",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "18000",
+            "saleprice" : "16000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/airpods.jpg"
+        },
+
+        {
+            "id" : "5",
+            "name" : "Power Bank",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "1200",
+            "saleprice" : "1000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/power.jpg"
+        },
+
+        {
+            "id" : "6",
+            "name" : "Charger",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "800",
+            "saleprice" : "500",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/SX355.jpg"
+        },
+
+        {
+            "id" : "7",
+            "name" : "Router",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "1300",
+            "saleprice" : "1200",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/router.jpg"
+        },
+
+        {
+            "id" : "8",
+            "name" : "Antivirus",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "1800",
+            "saleprice" : "750",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/virus.jpg"
+        },
+
+        {
+            "id" : "9",
+            "name" : "Mobile Phone",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "25000",
+            "saleprice" : "20000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Galaxy-S21-Ultra.jpg"
+        },
+
+        {
+            "id" : "9",
+            "name" : "Mobile Phone",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "25000",
+            "saleprice" : "20000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Galaxy-S21-Ultra.jpg"
+        },
+
+        {
+            "id" : "9",
+            "name" : "Mobile Phone",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "25000",
+            "saleprice" : "20000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Galaxy-S21-Ultra.jpg"
+        },
+
+        {
+            "id" : "9",
+            "name" : "Mobile Phone",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "25000",
+            "saleprice" : "20000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Galaxy-S21-Ultra.jpg"
+        },
+
+        {
+            "id" : "9",
+            "name" : "Mobile Phone",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "25000",
+            "saleprice" : "20000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Galaxy-S21-Ultra.jpg"
+        },
+
+        {
+            "id" : "9",
+            "name" : "Mobile Phone",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "25000",
+            "saleprice" : "20000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Galaxy-S21-Ultra.jpg"
+        },
+
+        {
+            "id" : "9",
+            "name" : "Mobile Phone",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "25000",
+            "saleprice" : "20000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Galaxy-S21-Ultra.jpg"
+        },
+
+        {
+            "id" : "9",
+            "name" : "Mobile Phone",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "25000",
+            "saleprice" : "20000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Galaxy-S21-Ultra.jpg"
+        },
+
+        {
+            "id" : "9",
+            "name" : "Mobile Phone",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "25000",
+            "saleprice" : "20000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Galaxy-S21-Ultra.jpg"
+        },
+
+        {
+            "id" : "9",
+            "name" : "Mobile Phone",
+            "desc" : "It is a long established fact that a reader will be distracted by the readable content of a   page when looking at its layout.",
+            "price" : "25000",
+            "saleprice" : "20000",
+            "img" : "https://saifulislampro.com/wp-content/uploads/2021/12/Galaxy-S21-Ultra.jpg"
+        }
+
+        
+
+        
+
+
+   
+    ]
+}
